@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: "Introduction"
 layout: single
 author_profile: true
 ---
