@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Andrew Weisman, Ph.D."
+  name             : "Andrew Weisman"
   avatar           : "/assets/images/DSC_4409-cropped-square-mynci.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computational scientist"
   location         : "Olney, Maryland"
