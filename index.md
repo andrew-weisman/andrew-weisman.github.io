@@ -14,6 +14,8 @@ Data Scientist, *2018 to present*
 
 ### Selected projects
 
-* [Statistical spatial analysis of cells in multiplex immunofluorescence images of lung cancers](bleh.md)
-* [Identification of important genes in pediatric cancers from gene expression data](bleh.md)
-* [3D segmentation of mitochondria in cryogenic electron microscopy scans of fibroblast cells](bleh.md)
+[Statistical analysis of cell interactions](bleh.md) Developed a method to determine whether immune cells were interacting in multiplex immunofluorescence images of lung cancers, hinting at specific interactions between cells in longer-living patients
+
+[Gene importance in pediatric cancers](bleh.md) Developed a method to identify the genes that best discriminate between pediatric cancers from gene expression data
+
+[3D segmentation of mitochondria](bleh.md) Helped develop a method to identify the mitochondria in 3D cryogenic electron microscopy scans of fibroblast cells
