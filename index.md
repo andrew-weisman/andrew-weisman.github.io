@@ -16,6 +16,6 @@ Data Scientist, *2018 to present*
 
 [Statistical analysis of cell interactions](bleh.md) Developed a method to determine whether immune cells were interacting in multiplex immunofluorescence images of lung cancers
 
-[Gene importance in pediatric cancers](bleh.md) Developed a method to identify the genes that best discriminate between pediatric cancers from gene expression data
+[Gene importance in pediatric cancers](bleh.md) Developed a method to identify the genes that best discriminate between pediatric cancers using gene expression data
 
 [3D segmentation of mitochondria](bleh.md) Helped develop a method to identify the mitochondria in 3D cryogenic electron microscopy scans of fibroblast cells
