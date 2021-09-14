@@ -1,10 +1,8 @@
 ---
-#title: "Welcome to the homepage of Andrew Weisman, Ph.D."
+title: "Welcome to Andrew's homepage"
 layout: single
 #author_profile: true
 ---
-
-# Introduction
 
 Hey there!
 
