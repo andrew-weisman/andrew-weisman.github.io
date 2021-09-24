@@ -1,5 +1,6 @@
 ---
+title: "Random internal things"
 layout: single
 ---
 
-[.bash_profile](bash_profile.txt)
+* Common [.bash_profile](bash_profile.txt)
