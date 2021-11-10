@@ -6,7 +6,7 @@ author_profile: true
 
 ## Project summary
 
-Our experimental collaborators provided data from immunohistochemistry analyses containing the 2D spatial coordinates of immune cells identified by various combinations of protein surface markers. The data were collected from lung cancer patients before and after treatment with an experimental drug and were generated using multiplex immunofluorescence.
+Our experimental collaborators provided tumor-immune microenvironment data containing the 2D spatial coordinates of immune cells identified by various combinations of protein surface markers. The data were collected from lung cancer patients before and after treatment with an experimental drug and were generated using multiplex immunofluorescence.
 
 The goal was to determine whether cell species were interacting with other species, and to what extent. I translated this question into determining whether the relative densities of cell species around other species were random.
 
