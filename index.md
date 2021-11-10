@@ -14,7 +14,7 @@ Data Scientist, *2018 to present*
 
 ### Selected projects
 
-[Statistical analysis of cell interactions:](./statistical_analysis_of_cell_interactions.md) Developed a method to determine whether immune cells were interacting in multiplex immunofluorescence images of lung cancers
+[Statistical analysis of cell interactions:](./statistical_analysis_of_cell_interactions.md) Developed a method to determine whether immune cells were interacting in multiplex immunofluorescence images of lung cancer
 
 [Gene importance in pediatric cancers:](./gene_importance_in_pediatric_cancers.md) Developed a method to identify the genes that best discriminate between pediatric cancers using gene expression data
 
