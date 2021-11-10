@@ -12,7 +12,7 @@ The goal was to determine whether cell species were interacting with other speci
 
 Given that this question is equivalent to asking whether the total number of neighbor species around all center species in a region of interest (ROI) is Poisson-distributed, I calculated P values using this Poisson distribution as the null distribution. This utilization of such a parametric method rather than a more-common non-parametric method (such as the permutation test) resulted in more exact results and required much less computation time.
 
-In particular, I calculated the left and right P values, small values of which would indicate that the density of the neighbor cells around the center cells is lower or higher than expected, respectively, where the "expected" number is proportional to the total number of neighbor cells in the ROI. I generated heatmaps containing the logarithm of these P values, with the neighbor species on the x-axis and the center species on the y-axis; for example:
+In particular, I calculated the left and right P values, small values of which would indicate that the density of the neighbor cells around the center cells is lower or higher than expected, respectively, where the "expected" number is proportional to the total number of neighbor cells in the ROI. I generated heatmaps containing the logarithm of these P values, with the neighbor species on the x-axis and the center species on the y-axis. For example:
 
 ![density heatmaps](./assets/images/density_heatmaps.png)
 
