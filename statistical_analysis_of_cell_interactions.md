@@ -16,4 +16,6 @@ In particular, I calculated the left and right P values, small values of which w
 
 ![density heatmaps](./assets/images/density_heatmaps.png)
 
-This analysis combined with a measure of a patient's response to the treatment allowed us to identify potential interactions of species of immune cells that might correlate with patient response. This study is on-going.
+This analysis combined with a measure of a patient's response to the treatment allowed us to identify potential interactions of species of immune cells that might correlate with patient response.
+
+This study is on-going.
