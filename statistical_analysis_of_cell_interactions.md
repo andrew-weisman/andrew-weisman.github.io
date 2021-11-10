@@ -10,9 +10,9 @@ Our experimental collaborators provided data from immunohistochemistry analyses 
 
 The goal was to determine whether cell species were interacting with other species, and to what extent. I translated this question into determining whether the relative densities of cell species around other species were random.
 
-Given that this question exactly equivalent to asking whether the total number of neighbor species around all center species in a region of interest is Poisson-distributed, I calculated P values using this Poisson distribution as the null distribution. This utilization of such a parametric method rather than a more-common non-parametric method (such as the permutation test) resulted in more exact results and significantly less computation time.
+Given that this question equivalent to asking whether the total number of neighbor species around all center species in a region of interest (ROI) is Poisson-distributed, I calculated P values using this Poisson distribution as the null distribution. This utilization of such a parametric method rather than a more-common non-parametric method (such as the permutation test) resulted in more exact results and significantly less computation time.
 
-In particular, I calculated left and right P values, small values of which would indicate that the density of the neighbor cells around the center cells is lower or higher than expected, respectively. I generated heatmaps containing the logarithm of these P values, with the neighbor species on the x-axis and the center species on the y-axis, an example of which is below:
+In particular, I calculated left and right P values, small values of which would indicate that the density of the neighbor cells around the center cells is lower or higher than expected, respectively, where the "expected" number is proportional to the total number of neighbor cells in the ROI. I generated heatmaps containing the logarithm of these P values, with the neighbor species on the x-axis and the center species on the y-axis; for example::
 
 ![density heatmaps](./assets/images/density_heatmaps.png)
 
